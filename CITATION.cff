@@ -4,7 +4,6 @@ authors:
 - family-names: "Bujosa"
   given-names: "Marcos"
   orcid: "http://orcid.org/0000-0001-6493-8215"
-title: "Un Curso de Álgebra Lineal (con notación asociativa y un módulo para Python)"
 version: v1.0.0
 doi: 10.5281/zenodo.6355541
 date-released: 2022-03-14
@@ -19,3 +18,4 @@ preferred-citation:
   editor: "self-published"
   title: "Un Curso de Álgebra Lineal (con notación asociativa y un módulo para Python)"
   year: 2022
+title: "Un Curso de Álgebra Lineal (con notación asociativa y un módulo para Python)"
