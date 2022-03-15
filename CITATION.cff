@@ -15,7 +15,8 @@ preferred-citation:
     given-names: "Brun"
     orcid: "http://orcid.org/0000-0001-6493-8215"
   doi: "10.5281/zenodo.6355541"
-  publisher = "self-published"
-  title: "Un Curso de Álgebra Lineal con notación asociativa y un módulo para Python"
+  publisher: "self-published"
+  title: "Un Curso de Álgebra Lineal (con notación asociativa y un módulo para Python)"
   year: 2022
-title: "Un Curso de Álgebra Lineal con notación asociativa y un módulo para Python"
+  url: "https://github.com/mbujosab/CursoDeAlgebraLineal"
+title: "Un Curso de Álgebra Lineal (con notación asociativa y un módulo para Python)"
