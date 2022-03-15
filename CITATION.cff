@@ -18,5 +18,5 @@ preferred-citation:
   publisher = "self-published"
   title: "Un Curso de Álgebra Lineal con notación asociativa y un módulo para Python"
   year: 2022
-  note: "\url{https://github.com/mbujosab/CursoDeAlgebraLineal}"
+  note: "https://github.com/mbujosab/CursoDeAlgebraLineal"
 title: "Un Curso de Álgebra Lineal con notación asociativa y un módulo para Python"
