@@ -9,5 +9,13 @@ version: v1.0.0
 doi: 10.5281/zenodo.6355541
 date-released: 2022-03-14
 url: "https://github.com/mbujosab/CursoDeAlgebraLineal"
-type: "book"
-year: 2022
+preferred-citation:
+  type: book
+  authors:
+  - family-names: "Bujosa"
+    given-names: "Brun"
+    orcid: "http://orcid.org/0000-0001-6493-8215"
+  doi: "10.5281/zenodo.6355541"
+  editor: "self-published"
+  title: "Un Curso de Álgebra Lineal (con notación asociativa y un módulo para Python)"
+  year: 2022
