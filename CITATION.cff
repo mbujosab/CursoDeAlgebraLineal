@@ -1,5 +1,6 @@
 cff-version: 1.2.0
-message: "Si usa este libro, por favor, cítelo como abajo."
+message: >-
+  Si usa este libro, por favor, cítelo usando los metadatos de este fichero.
 authors:
 - family-names: "Bujosa"
   given-names: "Marcos"
