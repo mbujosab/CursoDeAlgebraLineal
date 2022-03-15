@@ -9,3 +9,12 @@ version: v1.0.0
 doi: 10.5281/zenodo.6355541
 date-released: 2022-03-14
 url: "https://github.com/mbujosab/CursoDeAlgebraLineal"
+preferred-citation:
+  type: book
+  authors:
+  - family-names: "Bujosa"
+    given-names: "Marcos"
+    orcid: "http://orcid.org/0000-0001-6493-8215"
+  doi: "10.5281/zenodo.6355541"
+  publisher = "self-published",
+  year: 2022
