@@ -1,0 +1,26 @@
+*  Curso de Álgebra Lineal
+
+Este [[https://github.com/mbujosab/CursoDeAlgebraLineal/blob/master/libro.pdf][libro]] esté escrito para la asignatura [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] (Álgebra
+lineal) que imparto en el [[https://www.ucm.es/estudios/grado-economia][grado en Economía]] de la [[https://economicasyempresariales.ucm.es/][Facultad de
+CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
+
+- Enlace al [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][Material de clase]]
+
+- Enlace a los [[https://github.com/mbujosab/nacal-Jupyter-Notebooks][Notebooks]] de Jupyter (asociados al curso) para ser
+  ejecutados en la nube con el navegador usando 
+  [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][Binder]]
+# (https://mybinder.org/badge_logo.svg)
+
+Si quiere citar el libro, por favor hágalo del siguiente modo:
+
+- Bujosa, M. (2022). Un Curso de Álgebra Lineal con notación
+  asociativa y un módulo para Python. https://github.com/mbujosab
+  (self-published).
+
+Si le resulta útil mi libro, por favor hágamelo saber.
+
+Puede contactar conmigo a través de mi página web
+https://www.ucm.es/fundamentos-analisis-economico2/marcos-bujosa
+
+/Por favor, si encuentra algun error o tiene alguna sugerencia,
+hágamelo saber. Estaré muy agradecido./
