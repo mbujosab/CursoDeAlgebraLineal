@@ -30,8 +30,9 @@ CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
 
 Si desea citar el libro, por favor hágalo del siguiente modo:
 
-- Bujosa, M. (2022). Un Curso de Álgebra Lineal. https://github.com/mbujosab
-  (self-published).
+- Bujosa, M. (2022). Un Curso de Álgebra Lineal con notación
+  asociativa y un módulo para Python. https://github.com/mbujosab
+  (self-published). [[file:./citation/citation.bib][.bib]] [[file:./citation/citation.apa][.apa]]
 
 Si le resultara útil mi libro, por favor hágamelo saber.
 
@@ -40,3 +41,6 @@ https://www.ucm.es/fundamentos-analisis-economico2/marcos-bujosa
 
 /Si encuentra algun error, tiene alguna sugerencia o sencillamente le
 gusta el libro, por favor, hágamelo saber. Le estaré muy agradecido./
+
+- Enlace a esta [[https://mbujosab.github.io/CursoDeAlgebraLineal/][página]]
+- Enlace a mis [[https://github.com/mbujosab][repositorios en GitHub]]
