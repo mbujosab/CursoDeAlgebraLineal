@@ -14,33 +14,4 @@
     :END:  
 # y una introducción a la Probabilidad como extensión del Álgebra Lineal
 
-Este [[file:./libro.pdf][*libro*]] está escrito para impartir la asignatura [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]]
-(Álgebra lineal) en mis grupos del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]] de la [[https://economicasyempresariales.ucm.es/][Facultad de
-CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
-
-- Enlace al [[file:./libro.pdf][*libro*]].
-
-- Enlace a [[https://github.com/mbujosab/nacal-Jupyter-Notebooks][Notebooks]] de Jupyter (asociados al curso) y ejecutables en
-  su navegador usando [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][https://mybinder.org/badge_logo.svg]].
-
-- Enlace a [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][otros materiales]] usados en clase.
-
-- Enlace al repositorio con el [[https://github.com/mbujosab/nacal-latex-package][paquete de $\LaTeX{}$]] desarrollado para
-  escribir con la notación del libro.
-
-Si desea citar el libro, por favor hágalo del siguiente modo:
-
-- Bujosa, M. (2022). Un Curso de Álgebra Lineal con notación
-  asociativa y un módulo para Python. https://github.com/mbujosab
-  (self-published). [[file:./citation/citation.bib][.bib]] [[file:./citation/citation.apa][.apa]]
-
-Si le resultara útil mi libro, por favor hágamelo saber.
-
-Puede contactar conmigo a través de mi web:
-https://www.ucm.es/fundamentos-analisis-economico2/marcos-bujosa
-
-/Si encuentra algun error, tiene alguna sugerencia o sencillamente le
-gusta el libro, por favor, hágamelo saber. Le estaré muy agradecido./
-
-- Enlace a esta [[https://mbujosab.github.io/CursoDeAlgebraLineal/][página]]
-- Enlace a mis [[https://github.com/mbujosab][repositorios en GitHub]]
+#+INCLUDE: "README.org::* Curso de Álgebra Lineal" :only-contents t 
