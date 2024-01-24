@@ -22,18 +22,19 @@ favor, hágamelo saber. Estaré muy agradecido./
 Puede contactar conmigo a través de mi web:
 https://www.ucm.es/fundamentos-analisis-economico2/marcos-bujosa o
 puede reportar cualquier cuestión a través del repositorio
-[[https://github.com/mbujosab/CursoDeAlgebraLineal/issues]]
+[[https://github.com/mbujosab/CursoDeAlgebraLineal/issues]].
 
 ******** Enlaces
 - [[https://github.com/mbujosab/nacal-Jupyter-Notebooks][Notebooks]] de Jupyter (asociados al curso) y ejecutables en su
   navegador usando [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][https://mybinder.org/badge_logo.svg]].
 
-- [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][Otros materiales]] usados en mis clases de Álgebra Lineal.
-
-- Módulo de Python [[https://github.com/mbujosab/nacallib][NAcAL]] en GitHub y [[https://pypi.org/project/nacal/][Pypi]]
+- Módulo de Python [[https://github.com/mbujosab/nacallib][NAcAL]] en GitHub y [[https://pypi.org/project/nacal/][Pypi]].
 
 - [[https://github.com/mbujosab/nacal-latex-package][Paquete de $\LaTeX{}$]] para emplear la notación de este libro.
 
-- [[https://mbujosab.github.io/CursoDeAlgebraLineal/][Web]] del libro
+- [[https://mbujosab.github.io/CursoDeAlgebraLineal/][Web]] del libro.
 
-- Mis [[https://github.com/mbujosab][repositorios en GitHub]]
+- Mis [[https://github.com/mbujosab][repositorios en GitHub]].
+
+- [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][Otros materiales]] usados en mis clases de Álgebra Lineal.
+
