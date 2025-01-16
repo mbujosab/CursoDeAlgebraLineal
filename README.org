@@ -11,7 +11,8 @@ de la [[https://www.ucm.es/][UCM]].
 Si quiere citar el libro, por favor, hágalo del siguiente modo:
 
 - Bujosa, M. (2023). Un Curso de Álgebra Lineal con notación
-  asociativa y un módulo para Python. https://github.com/mbujosab
+  asociativa y un módulo para
+  Python. https://github.com/mbujosab/CursoDeAlgebraLineal
   (self-published).
 
   ([[file:./citation/citation.bib][.bib]], [[file:./citation/citation.apa][.apa]])
@@ -33,6 +34,8 @@ puede reportar cualquier cuestión a través del repositorio
 - [[https://github.com/mbujosab/nacal-latex-package][Paquete de $\LaTeX{}$]] para emplear la notación de este libro.
 
 - [[https://mbujosab.github.io/CursoDeAlgebraLineal/][Web]] del libro.
+
+- [[https://www.youtube.com/playlist?list=PLA94O6zqDj0VREglVLepuCd0d8F0d-rnL][Vídeos en YouTube]]
 
 - Mis [[https://github.com/mbujosab][repositorios en GitHub]].
 
