@@ -5,10 +5,7 @@ authors:
 - family-names: "Bujosa"
   given-names: "Marcos"
   orcid: "http://orcid.org/0000-0001-6493-8215"
-version: v1.0.0
-doi: 10.5281/zenodo.6355541
-date-released: 2022-03-14
-url: "https://github.com/mbujosab/CursoDeAlgebraLineal"
+url: "https://mbujosab.github.io/CursoDeAlgebraLineal/"
 preferred-citation:
   type: book
   authors:
@@ -17,7 +14,7 @@ preferred-citation:
     orcid: "http://orcid.org/0000-0001-6493-8215"
   publisher: "https://github.com/mbujosab (self-published)"
   title: "Un Curso de Álgebra Lineal con notación asociativa y un módulo para Python"
-  year: 2023
-  note: "https://github.com/mbujosab/CursoDeAlgebraLineal"
-  url: "https://github.com/mbujosab/CursoDeAlgebraLineal"
+  year: 2026
+  note: "https://mbujosab.github.io/CursoDeAlgebraLineal/"
+  url: "https://mbujosab.github.io/CursoDeAlgebraLineal/"
 title: "Un Curso de Álgebra Lineal con notación asociativa y un módulo para Python"

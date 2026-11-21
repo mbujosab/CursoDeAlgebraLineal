@@ -2,6 +2,7 @@
 #+author: Marcos Bujosa 
 #+email:  mbujosab@ucm.es
 #+LANGUAGE: es-es
+#+OPTIONS: toc:nil html-postamble:nil
 
 # ###########
 # ESTO DA EL FORMATO FINAL DE LA PÁGINA WEB VÉASE [[https://olmon.gitlab.io/org-themes/]]

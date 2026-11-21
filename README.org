@@ -2,42 +2,58 @@
 
 *  Curso de Álgebra Lineal
 
-[[file:./libro.pdf][*Libro*]] de Álgebra Lineal para impartir la asignatura [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]]
-en mis grupos del [[https://www.ucm.es/estudios/grado-economia][Grado de Economía]] de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]]
-de la [[https://www.ucm.es/][UCM]].
+[[file:./libro.pdf][*Descargar el libro (PDF)*]]. La fecha de la versión figura en la segunda
+página del PDF.
 
-- Enlace al [[file:./libro.pdf][*libro*]].
+Este libro está escrito para estudiantes que cursan Álgebra Lineal por
+primera vez. No requiere conocimientos previos de la materia. Todos
+los resultados están demostrados a partir de las propiedades de los
+números reales y complejos.
 
-Si quiere citar el libro, por favor, hágalo del siguiente modo:
+El libro se diferencia de otros manuales en dos aspectos:
 
-- Bujosa, M. (2023). Un Curso de Álgebra Lineal con notación
+- *La notación.* Distingue los números, los vectores y las matrices, y
+  busca que se pueda operar con los símbolos. Las operaciones con los
+  números se deducen operando con los símbolos de los vectores y de
+  las matrices. La notación está implementada en el módulo [[https://github.com/mbujosab/nacallib][NAcAL]] de
+  Python: las expresiones del libro se escriben casi igual en el
+  ordenador.
+- *Los procedimientos.* El método de eliminación y las
+  transformaciones elementales son las herramientas principales del
+  curso, y la eliminación se aplica a las columnas de la matriz. Con
+  un mismo procedimiento se calcula la inversa de una matriz y se
+  resuelven sistemas de ecuaciones.
+
+El libro nació en la asignatura [[https://www.ucm.es/fundamentos-analisis-economico2/1%C2%BA-geco-matematicas-ii][Matemáticas II]] del [[https://www.ucm.es/estudios/grado-economia][Grado en Economía]]
+de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
+
+** Material que acompaña al libro
+
+- [[https://www.youtube.com/playlist?list=PLA94O6zqDj0VREglVLepuCd0d8F0d-rnL][Vídeos en YouTube]] con la exposición de las lecciones.
+- [[https://github.com/mbujosab/nacal-Jupyter-Notebooks][Notebooks]] de Jupyter de cada lección. Se pueden ejecutar en el
+  navegador, sin instalar nada: [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][https://mybinder.org/badge_logo.svg]].
+- Módulo de Python [[https://github.com/mbujosab/nacallib][NAcAL]]. Se instala con =pip install nacal= ([[https://pypi.org/project/nacal/][PyPI]]).
+- [[https://github.com/mbujosab/nacal-latex-package][Paquete de $\LaTeX{}$]] para escribir con la notación del libro.
+- [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][Otros materiales]] usados en mis clases de Álgebra Lineal.
+
+** Cómo citar el libro
+
+- Bujosa, M. (2026). Un Curso de Álgebra Lineal con notación
   asociativa y un módulo para
-  Python. https://github.com/mbujosab/CursoDeAlgebraLineal
+  Python. https://mbujosab.github.io/CursoDeAlgebraLineal/
   (self-published).
 
   ([[file:./citation/citation.bib][.bib]], [[file:./citation/citation.apa][.apa]])
 
+** Contacto
+
 /Si encuentra errores, tiene sugerencias o le gusta el libro, por
 favor, hágamelo saber. Estaré muy agradecido./
 
-Puede contactar conmigo a través de mi web:
-https://www.ucm.es/fundamentos-analisis-economico2/marcos-bujosa o
-puede reportar cualquier cuestión a través del repositorio
-[[https://github.com/mbujosab/CursoDeAlgebraLineal/issues]].
+Puede escribirme desde [[https://www.ucm.es/fundamentos-analisis-economico2/marcos-bujosa][mi página de la UCM]] o abrir una incidencia en
+el [[https://github.com/mbujosab/CursoDeAlgebraLineal/issues][repositorio del libro]]. Mis otros repositorios están en [[https://github.com/mbujosab][GitHub]].
 
-******** Enlaces
-- [[https://github.com/mbujosab/nacal-Jupyter-Notebooks][Notebooks]] de Jupyter (asociados al curso) y ejecutables en su
-  navegador usando [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][https://mybinder.org/badge_logo.svg]].
+** Licencia
 
-- Módulo de Python [[https://github.com/mbujosab/nacallib][NAcAL]] en GitHub y [[https://pypi.org/project/nacal/][Pypi]].
-
-- [[https://github.com/mbujosab/nacal-latex-package][Paquete de $\LaTeX{}$]] para emplear la notación de este libro.
-
-- [[https://mbujosab.github.io/CursoDeAlgebraLineal/][Web]] del libro.
-
-- [[https://www.youtube.com/playlist?list=PLA94O6zqDj0VREglVLepuCd0d8F0d-rnL][Vídeos en YouTube]]
-
-- Mis [[https://github.com/mbujosab][repositorios en GitHub]].
-
-- [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][Otros materiales]] usados en mis clases de Álgebra Lineal.
-
+El libro se distribuye con licencia [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
+Reconocimiento-CompartirIgual 4.0 Internacional]].
