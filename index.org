@@ -1,18 +1,30 @@
 #+title:  Un curso de Álgebra Lineal
-#+author: Marcos Bujosa 
+#+author: Marcos Bujosa
 #+email:  mbujosab@ucm.es
-#+LANGUAGE: es-es
-#+OPTIONS: toc:nil html-postamble:nil
+#+LANGUAGE: es
+#+OPTIONS: toc:nil html-postamble:auto html-style:nil timestamp:nil
 
-# ###########
-# ESTO DA EL FORMATO FINAL DE LA PÁGINA WEB VÉASE [[https://olmon.gitlab.io/org-themes/]]
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="worg.css" />
-# ##########
+# Hoja común de las webs de Álgebra Lineal (única copia en mbujosab.github.io)
+#+HTML_HEAD: <link rel="stylesheet" href="https://mbujosab.github.io/css/algebra-lineal.css">
+
+#+BEGIN_EXPORT html
+<nav class="blocknav" aria-label="Webs de Álgebra Lineal">
+  <div class="container">
+    <a href="https://mbujosab.github.io/CursoDeAlgebraLineal/" aria-current="page">Libro</a>
+    <a href="https://mbujosab.github.io/MatematicasII/">Material de clase</a>
+    <a href="https://mbujosab.github.io/nacal-Jupyter-Notebooks/">Notebooks</a>
+    <a href="https://mbujosab.github.io/VideosMates2/">Vídeos</a>
+    <a href="https://mbujosab.github.io/nacallib/">NAcAL</a>
+    <a href="https://github.com/mbujosab/nacal-latex-package">Paquete de LaTeX</a>
+    <a href="https://mbujosab.github.io/">Marcos Bujosa</a>
+  </div>
+</nav>
+#+END_EXPORT
 
 * Curso de Álgebra Lineal con notación asociativa y un módulo de Python
-    :PROPERTIES:  
+    :PROPERTIES:
     :UNNUMBERED: t
-    :END:  
+    :END:
 # y una introducción a la Probabilidad como extensión del Álgebra Lineal
 
-#+INCLUDE: "README.org::* Curso de Álgebra Lineal" :only-contents t 
+#+INCLUDE: "README.org::* Curso de Álgebra Lineal" :only-contents t
