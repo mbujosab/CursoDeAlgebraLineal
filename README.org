@@ -15,7 +15,7 @@ El libro se diferencia de otros manuales en dos aspectos:
 - *La notación.* Distingue los números, los vectores y las matrices, y
   busca que se pueda operar con los símbolos. Las operaciones con los
   números se deducen operando con los símbolos de los vectores y de
-  las matrices. La notación está implementada en el módulo [[https://github.com/mbujosab/nacallib][NAcAL]] de
+  las matrices. La notación está implementada en el módulo [[https://mbujosab.github.io/nacallib/][NAcAL]] de
   Python: las expresiones del libro se escriben casi igual en el
   ordenador.
 - *Los procedimientos.* El método de eliminación y las
@@ -30,11 +30,11 @@ de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] d
 ** Material que acompaña al libro
 
 - [[https://www.youtube.com/playlist?list=PLA94O6zqDj0VREglVLepuCd0d8F0d-rnL][Vídeos en YouTube]] con la exposición de las lecciones.
-- [[https://github.com/mbujosab/nacal-Jupyter-Notebooks][Notebooks]] de Jupyter de cada lección. Se pueden ejecutar en el
+- [[https://mbujosab.github.io/nacal-Jupyter-Notebooks/][Notebooks]] de Jupyter de cada lección. Se pueden ejecutar en el
   navegador, sin instalar nada: [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][https://mybinder.org/badge_logo.svg]].
-- Módulo de Python [[https://github.com/mbujosab/nacallib][NAcAL]]. Se instala con =pip install nacal= ([[https://pypi.org/project/nacal/][PyPI]]).
+- Módulo de Python [[https://mbujosab.github.io/nacallib/][NAcAL]]. Se instala con =pip install nacal= ([[https://pypi.org/project/nacal/][PyPI]]).
 - [[https://github.com/mbujosab/nacal-latex-package][Paquete de $\LaTeX{}$]] para escribir con la notación del libro.
-- [[https://github.com/mbujosab/MatematicasII/tree/main/Esp][Otros materiales]] usados en mis clases de Álgebra Lineal.
+- [[https://mbujosab.github.io/MatematicasII/][Otros materiales]] usados en mis clases de Álgebra Lineal.
 
 ** Cómo citar el libro
 
