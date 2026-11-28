@@ -28,15 +28,21 @@ El libro nació en la asignatura [[https://www.ucm.es/fundamentos-analisis-econo
 de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] de la [[https://www.ucm.es/][UCM]].
 
 ** Material que acompaña al libro
+:PROPERTIES:
+:CUSTOM_ID: material
+:END:
 
 - [[https://www.youtube.com/playlist?list=PLA94O6zqDj0VREglVLepuCd0d8F0d-rnL][Vídeos en YouTube]] con la exposición de las lecciones.
 - [[https://mbujosab.github.io/nacal-Jupyter-Notebooks/][Notebooks]] de Jupyter de cada lección. Se pueden ejecutar en el
   navegador, sin instalar nada: [[https://mybinder.org/v2/gh/mbujosab/nacal-jupyter-notebooks/master][https://mybinder.org/badge_logo.svg]].
 - Módulo de Python [[https://mbujosab.github.io/nacallib/][NAcAL]]. Se instala con =pip install nacal= ([[https://pypi.org/project/nacal/][PyPI]]).
-- [[https://github.com/mbujosab/nacal-latex-package][Paquete de $\LaTeX{}$]] para escribir con la notación del libro.
+- [[https://mbujosab.github.io/nacal-latex-package/][Paquete de $\LaTeX{}$]] para escribir con la notación del libro.
 - [[https://mbujosab.github.io/MatematicasII/][Otros materiales]] usados en mis clases de Álgebra Lineal.
 
 ** Cómo citar el libro
+:PROPERTIES:
+:CUSTOM_ID: como-citar
+:END:
 
 - Bujosa, M. (2026). Un Curso de Álgebra Lineal con notación
   asociativa y un módulo para
@@ -46,6 +52,9 @@ de la [[https://economicasyempresariales.ucm.es][Facultad de CC. Económicas]] d
   ([[file:./citation/citation.bib][.bib]], [[file:./citation/citation.apa][.apa]])
 
 ** Contacto
+:PROPERTIES:
+:CUSTOM_ID: contacto
+:END:
 
 /Si encuentra errores, tiene sugerencias o le gusta el libro, por
 favor, hágamelo saber. Estaré muy agradecido./
@@ -54,6 +63,9 @@ Puede escribirme desde [[https://www.ucm.es/fundamentos-analisis-economico2/marc
 el [[https://github.com/mbujosab/CursoDeAlgebraLineal/issues][repositorio del libro]]. Mis otros repositorios están en [[https://github.com/mbujosab][GitHub]].
 
 ** Licencia
+:PROPERTIES:
+:CUSTOM_ID: licencia
+:END:
 
 El libro se distribuye con licencia [[http://creativecommons.org/licenses/by-sa/4.0/][Creative Commons
 Reconocimiento-CompartirIgual 4.0 Internacional]].
